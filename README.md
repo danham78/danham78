@@ -10,7 +10,9 @@ uploading my projects to github. These include some fun tasks I completed for th
 * [Budget App](https://github.com/danham78/budget_app) - for keeping track of spends. Also includes a nice little bar chart visualisation function
 * [Shape Calculator](https://github.com/danham78/shape_calculator) - an OOP excercise
 * [Probability Calculator](https://github.com/danham78/prob_calculator) - designed to approximate probability by repeating an experiment
-
+and projets from the Hyperion Dev Data Science Fundamentals Bootcamp including:
+* [watch_next](https://github.com/danham78/watch_next) - an exercise in NLP
+* 
 
 <!--
 **danham78/danham78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
