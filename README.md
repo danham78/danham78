@@ -9,7 +9,7 @@ uploading my projects to github. These include some fun tasks I completed for th
 * Time Calculator - more involved than it looks at first - no datetime allowed...
 * Budget App - for keeping track of spends. Also includes a nice little bar chart visualisation function
 * Shape Calculator - an OOP excercise
-* Probability Calculator - designed to approximate probability by repeating an experiment
+* [Probability Calculator](https://github.com/danham78/prob_calculator) - designed to approximate probability by repeating an experiment
 
 
 <!--
