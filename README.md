@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋  
+## I'm Daniel Hammersley and I'm an aspiring Data Scientist!    
+  
+  
+  
+### I'm currently working on... 
+uploading my projects to github. These include some fun tasks I completed for the freeCodeCamp Python certification such as:
+* Artihmetic Formatter - a nice string formatting excercise - I'm aiming to refactor this to make better use of functions
+* Time Calculator - more involved than it looks at first - no datetime allowed...
+* Budget App - for keeping track of spends. Also includes a nice little bar chart visualisation function
+* Shape Calculator - an OOP excercise
+* Probability Calculator - designed to approximate probability by repeating an experiment
+
 
 <!--
 **danham78/danham78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
